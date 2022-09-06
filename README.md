@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **emre@cerbeta.com**
 
-- 📄 Know about my experiences [www.cerbeta.com](www.cerbeta.com)
+- 📄 Know about my experiences [LinkedIn](https://linkedin.com/in/emrecan-er-9066b9221/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
