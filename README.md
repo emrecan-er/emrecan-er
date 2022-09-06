@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Flutter State Management**
 
+- 🔨 I’m currently building **LiveScores App**
+
 - 📫 How to reach me **emre@cerbeta.com**
 
 - 📄 Know about my experiences [www.cerbeta.com](www.cerbeta.com)
