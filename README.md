@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Emrecan</h1>
-<h3 align="center">Developer (20y) from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emrecan-er&label=Profile%20views&color=0e75b6&style=flat" alt="emrecan-er" /> </p>
 
-- 🌱 I’m currently learning **Flutter State Management**
+- 🌱 I’m currently learning **Swift**
 
-- 🔨 I’m currently building **Drill App**
+- 🔨 I’m currently building **SoruÇöz:LGS**
 
-- 📫 How to reach me **emre@cerbeta.com**
+- 📫 How to reach me **emrecaner047@gmail.com**
 
 - 📄 Know about my experiences [LinkedIn](https://linkedin.com/in/emrecan-er-9066b9221/)
 
