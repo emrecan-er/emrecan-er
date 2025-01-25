@@ -2,9 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emrecan-er&label=Profile%20views&color=0e75b6&style=flat" alt="emrecan-er" /> </p>
 
-- 🌱 I’m currently learning **Swift**
-
-- 🔨 I’m currently building **SoruÇöz:LGS**
+- 🔨 I’m currently building **AI Painter**
 
 - 📫 How to reach me **emrecaner047@gmail.com**
 
