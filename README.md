@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emrecan-er&label=Profile%20views&color=0e75b6&style=flat" alt="emrecan-er" /> </p>
 
-- 🔨 I’m currently building **AI Painter**
-
 - 📫 How to reach me **emrecaner047@gmail.com**
 
 - 📄 Know about my experiences [LinkedIn](https://linkedin.com/in/emrecan-er-9066b9221/)
